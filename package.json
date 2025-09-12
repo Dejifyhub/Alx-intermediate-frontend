@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Dejifyhub/Alx-intermediate-frontend#readme",
   "devDependencies": {
+    "sass": "^1.92.1",
     "tailwindcss": "^4.1.13"
   }
 }
